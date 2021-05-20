@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1",
+    "name": "Fruit peels",
+    "photo": "assets/compost.jpg",
+    "description": ".",
+    "instructions": [
+      "."
+    ],
+    "precautions": [
+      "."
+    ],
+    "examples": [
+      "Banana peels",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Old Vegetables",
+    "photo": "assets/compost.jpg",
+    "description": ".",
+    "instructions": [
+      "."
+    ],
+    "precautions": [
+      "."
+    ],
+    "examples": [
+      "old pechay",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Old Vegetables",
+    "photo": "assets/compost.jpg",
+    "description": ".",
+    "instructions": [
+      "."
+    ],
+    "precautions": [
+      "."
+    ],
+    "examples": [
+      "old pechay",
+      "",
+      ""
+    ]
+  },  
+]

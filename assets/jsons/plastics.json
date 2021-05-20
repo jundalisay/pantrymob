@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "name": "HDPE",
+    "photo": "assets/plastic.png",
+    "description": "HDPE is.. ",
+    "sources": [
+      "Bottles",
+      "Bottles"
+    ],
+    "recyclable": "Recyclable"
+  },
+  {
+    "id": "2",
+    "name": "PET",
+    "photo": "assets/plastic.png",
+    "description": "PET is.. ",
+    "sources": [
+      "Bottles",
+      "Bottles"
+    ],
+    "recyclable": "Recyclable"
+  },
+  {
+    "id": "3",
+    "name": "PVC",
+    "photo": "assets/plastic.png",
+    "description": "PVC is.. ",
+    "sources": [
+      "Bottles",
+      "Bottles"
+    ],
+    "recyclable": "Recyclable"
+  }
+]

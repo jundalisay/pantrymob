@@ -39,8 +39,9 @@ flutter:
         - asset: fonts/Cabin-Regular.ttf
   assets:
     - assets/
+    - assets/jsons/
+
 flutter_icons:
   android: "launcher_icon"
   ios: true
-  image_path: "assets/pantry.png"    
-
+  image_path: "assets/icon-pantry.png"    

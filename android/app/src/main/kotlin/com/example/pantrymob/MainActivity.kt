@@ -1,4 +1,4 @@
-package com.example.pantrymob
+package one.sora.pantry
 
 import io.flutter.embedding.android.FlutterActivity
 
